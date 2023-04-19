@@ -1,0 +1,3 @@
+1.运行read_mphtxt读入*.mphtxt文件生成mdl
+2.在SAR_s0中设置模型的坐标范围，运行SAR_s0生成雷达回波
+3.运行SAR_image生成图像
